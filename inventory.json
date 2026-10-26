@@ -1,10 +1,26 @@
 {
   "dealership": "Terrace Toyota",
-  "generated_at": "2026-10-25T23:53:29",
-  "vehicle_count": 146,
+  "generated_at": "2026-10-26T00:27:37",
+  "vehicle_count": 147,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "New 2026 Toyota 4Runner Hybridin Terrace",
+      "vin": "JTEVB5BR3T5052380",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/959aac5debc8.html",
+      "condition": "new",
+      "price": 84786.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Toyota C-HR XSEin Terrace",
+      "vin": "JTMAAAAD9TJ026250",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/64d4e1f0ea0b.html",
+      "condition": "new",
+      "price": 52020.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "New 2026 Toyota Corolla Cross XLEin Terrace",
       "vin": "7MUDAABG7TV208589",
@@ -51,6 +67,14 @@
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/820a42882a28.html",
       "condition": "new",
       "price": 58866.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Toyota Tundra Limitedin Terrace",
+      "vin": "5TFWA5DBXTX438875",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/26e19b43960b.html",
+      "condition": "new",
+      "price": 91823.0,
       "price_currency": "CAD"
     },
     {
@@ -273,17 +297,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 GMC Sierra 1500 ",
-      "vin": "3GTU2MEC4HG116301",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/f476d7b06d36.html",
-      "year": 2017,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "new",
-      "price": 21990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 RAM 1500 4WD Crew Cab 5.7 Ft Box Rebelin Terrace",
       "vin": "1C6RR7YT1HS501460",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/a2af2159651a.html",
@@ -313,7 +326,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 27990.0,
+      "price": 29990.0,
       "price_currency": "CAD"
     },
     {
@@ -467,6 +480,28 @@
       "make": "RAM",
       "model": "3500",
       "condition": "used",
+      "price": 54990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 RAM 2500 ",
+      "vin": "3C6TR5EJ7KG518226",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/48ab98808384.html",
+      "year": 2019,
+      "make": "RAM",
+      "model": "2500",
+      "condition": "new",
+      "price": 37990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 RAM 3500 ",
+      "vin": "3C63RRJL8KG523899",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/a4e13d4c85fe.html",
+      "year": 2019,
+      "make": "RAM",
+      "model": "3500",
+      "condition": "new",
       "price": 54990.0,
       "price_currency": "CAD"
     },
@@ -1400,39 +1435,6 @@
       "model": "bZ",
       "condition": "new",
       "price": 61930.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota 4Runner Hybridin Terrace",
-      "vin": "JTEVB5BR3T5052380",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/959aac5debc8.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "4Runner",
-      "condition": "new",
-      "price": 84786.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota C-HR XSEin Terrace",
-      "vin": "JTMAAAAD9TJ026250",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/64d4e1f0ea0b.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "C-HR",
-      "condition": "new",
-      "price": 52020.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Tundra Limitedin Terrace",
-      "vin": "5TFWA5DBXTX438875",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/26e19b43960b.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Tundra",
-      "condition": "new",
-      "price": 91823.0,
       "price_currency": "CAD"
     },
     {
