@@ -1,6 +1,6 @@
 {
   "dealership": "Terrace Toyota",
-  "generated_at": "2026-10-26T08:29:44",
+  "generated_at": "2026-10-26T08:50:38",
   "vehicle_count": 147,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -634,7 +634,7 @@
       "make": "Hyundai",
       "model": "Santa Fe",
       "condition": "new",
-      "price": 26990.0,
+      "price": 25990.0,
       "price_currency": "CAD"
     },
     {
@@ -711,7 +711,7 @@
       "make": "RAM",
       "model": "3500",
       "condition": "new",
-      "price": 64990.0,
+      "price": 63990.0,
       "price_currency": "CAD"
     },
     {
