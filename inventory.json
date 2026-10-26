@@ -1,6 +1,6 @@
 {
   "dealership": "Terrace Toyota",
-  "generated_at": "2026-10-25T14:48:39",
+  "generated_at": "2026-10-25T23:53:29",
   "vehicle_count": 146,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -93,7 +93,7 @@
       "make": "Honda",
       "model": "Crosstour Ex-Lin Terrace",
       "condition": "used",
-      "price": 17990.0,
+      "price": 15990.0,
       "price_currency": "CAD"
     },
     {
@@ -104,7 +104,7 @@
       "make": "Honda",
       "model": "Crosstour",
       "condition": "used",
-      "price": 17990.0,
+      "price": 15990.0,
       "price_currency": "CAD"
     },
     {
