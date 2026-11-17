@@ -1,134 +1,112 @@
 {
   "dealership": "Terrace Toyota",
-  "generated_at": "2026-10-26T08:50:38",
-  "vehicle_count": 147,
+  "generated_at": "2026-11-17T10:09:57",
+  "vehicle_count": 143,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "New 2026 Toyota 4Runner Hybridin Terrace",
-      "vin": "JTEVB5BR3T5052380",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/959aac5debc8.html",
-      "condition": "new",
-      "price": 84786.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Toyota C-HR XSEin Terrace",
-      "vin": "JTMAAAAD9TJ026250",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/64d4e1f0ea0b.html",
-      "condition": "new",
-      "price": 52020.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Toyota Corolla Cross XLEin Terrace",
-      "vin": "7MUDAABG7TV208589",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/a48a5cc279b1.html",
-      "condition": "new",
-      "price": 40213.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Toyota Corolla Cross Lin Terrace",
-      "vin": "7MUAAABG2TV209281",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/cd137bbe8726.html",
-      "condition": "new",
-      "price": 32658.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Toyota RAV4 XLEin Terrace",
-      "vin": "2T36CRAV9TC044418",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/8f5c884c9a60.html",
-      "condition": "new",
-      "price": 43378.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Toyota Sienna XSEin Terrace",
-      "vin": "5TDGSKFC8TS287708",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/b4b451f3231b.html",
-      "condition": "new",
-      "price": 59681.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Toyota Tacoma Basein Terrace",
-      "vin": "3TYLB5JN2TT153547",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/c52fb0ea7457.html",
-      "condition": "new",
-      "price": 54653.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Toyota Tacoma Basein Terrace",
-      "vin": "3TYLB5JN6TT157553",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/820a42882a28.html",
-      "condition": "new",
-      "price": 58866.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Toyota Tundra Limitedin Terrace",
-      "vin": "5TFWA5DBXTX438875",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/26e19b43960b.html",
-      "condition": "new",
-      "price": 91823.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Toyota Tundra SRin Terrace",
-      "vin": "5TFLA5DB7TX451411",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/f42dd3ec9ed6.html",
-      "condition": "new",
-      "price": 67194.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Toyota Prius Plug-In Hybrid SEin Terrace",
-      "vin": "JTDACACU3V3086250",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/d8e182e0a6b3.html",
-      "condition": "new",
-      "price": 43080.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Toyota Prius Plug-In Hybrid SEin Terrace",
-      "vin": "JTDACACU3V3086989",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/6ddde116672d.html",
-      "condition": "new",
-      "price": 43430.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Toyota Prius Plug-In Hybrid SEin Terrace",
-      "vin": "JTDACACU7V3087062",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/30a2e8df8841.html",
-      "condition": "new",
-      "price": 43080.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 Honda Crosstour Ex-Lin Terrace",
-      "vin": "5J6TF2H52EL800337",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/0be43ced5290.html",
-      "year": 2014,
-      "make": "Honda",
-      "model": "Crosstour Ex-Lin Terrace",
+      "name": "Jeep Grand Cherokee 2021 for salein Terrace",
+      "vin": "1C4RJFAG5MC687113",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/58c75a68fbcf.html",
       "condition": "used",
-      "price": 15990.0,
+      "price": 24990.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2014 Honda Crosstour ",
-      "vin": "5J6TF2H52EL800337",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/9705978bf701.html",
-      "year": 2014,
-      "make": "Honda",
-      "model": "Crosstour",
+      "name": "RAM 3500 2021 for salein Terrace",
+      "vin": "3C63R3ELXMG565713",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/3dcf7a229f36.html",
       "condition": "used",
-      "price": 15990.0,
+      "price": 63990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Tacoma 2021 for salein Terrace",
+      "vin": "5TFDZ5BN5MX058745",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/d7b1d528dbf4.html",
+      "condition": "used",
+      "price": 44990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chrysler Pacifica 2022 for salein Terrace",
+      "vin": "2C4RC3FG6NR109046",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/cd5b05ac0e7d.html",
+      "condition": "used",
+      "price": 35495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Bronco 2022 for salein Terrace",
+      "vin": "1FMEE5DH2NLB19349",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/7b738e7abb26.html",
+      "condition": "used",
+      "price": 38990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wagoneer 2022 for salein Terrace",
+      "vin": "1C4SJVDT4NS177590",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/da5c4ef65829.html",
+      "condition": "used",
+      "price": 45990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 Classic 2022 for salein Terrace",
+      "vin": "1C6RR7LT5NS120603",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/e881d9408051.html",
+      "condition": "used",
+      "price": 30990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Corolla Cross 2023 for salein Terrace",
+      "vin": "7MUFBABG3PV004075",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/4b048a264d7c.html",
+      "condition": "used",
+      "price": 35990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 2024 for salein Terrace",
+      "vin": "1C6SRFFT4RN114092",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/dbff928ba6fe.html",
+      "condition": "used",
+      "price": 45990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Corolla Cross Hybrid 2024 for salein Terrace",
+      "vin": "7MUFBABG4RV044488",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/8f503a17c4d8.html",
+      "condition": "used",
+      "price": 40990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota GR Corolla 2024 for salein Terrace",
+      "vin": "JTNABAAE8RA011622",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/0eb8ea83325c.html",
+      "condition": "used",
+      "price": 44990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Explorer 2025 for salein Terrace",
+      "vin": "1FMWK8GC7SGA70605",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/bbe79717a7d2.html",
+      "condition": "used",
+      "price": 57990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Civic Hybrid 2025 for salein Terrace",
+      "vin": "2HGFE4F85SH018087",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/60f59acf58d5.html",
+      "condition": "used",
+      "price": 33990.0,
       "price_currency": "CAD"
     },
     {
@@ -173,28 +151,6 @@
       "model": "RAV4",
       "condition": "used",
       "price": 17990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Chevrolet Silverado 1500 Crew Cab Short Box 4-Wheel Drive LT w/1LTin Terrace",
-      "vin": "3GCUKREC1GG163720",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/159ccdefd092.html",
-      "year": 2016,
-      "make": "Chevrolet",
-      "model": "Silverado 1500 Crew Cab Short Box 4-Wheel Drive LT w/1LTin Terrace",
-      "condition": "used",
-      "price": 21990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Chevrolet Silverado 1500 ",
-      "vin": "3GCUKREC1GG163720",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/9ade1b912afc.html",
-      "year": 2016,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "used",
-      "price": 21990.0,
       "price_currency": "CAD"
     },
     {
@@ -506,28 +462,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Jeep Gladiator Rubicon 4x4in Terrace",
-      "vin": "1C6JJTBG1LL215085",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/c561d55e44d6.html",
-      "year": 2020,
-      "make": "Jeep",
-      "model": "Gladiator",
-      "condition": "used",
-      "price": 36990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Jeep Gladiator ",
-      "vin": "1C6JJTBG1LL215085",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/97797286a172.html",
-      "year": 2020,
-      "make": "Jeep",
-      "model": "Gladiator",
-      "condition": "used",
-      "price": 36990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Jeep Wrangler Sahara 4x4in Terrace",
       "vin": "1C4HJXEG9LW212685",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/35d6d719ab60.html",
@@ -605,28 +539,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Hyundai Santa Fe Ultimate Calligraphy AWDin Terrace",
-      "vin": "5NMS5DAL8MH326919",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/4f10d34d33f0.html",
-      "year": 2021,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 25990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Hyundai Santa Fe ",
-      "vin": "5NMS5DAL8MH326919",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/76c718f0dd22.html",
-      "year": 2021,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 25990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Hyundai Santa Fe ",
       "vin": "5NMS5DAL8MH326919",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/76c718f0dd22.html",
@@ -641,17 +553,6 @@
       "name": "2021 Jeep Grand Cherokee Laredo 4x4in Terrace",
       "vin": "1C4RJFAG5MC687113",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/ab0747e54edd.html",
-      "year": 2021,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 24990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Jeep Grand Cherokee ",
-      "vin": "1C4RJFAG5MC687113",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/58c75a68fbcf.html",
       "year": 2021,
       "make": "Jeep",
       "model": "Grand Cherokee",
@@ -695,17 +596,6 @@
     {
       "name": "2021 RAM 3500 ",
       "vin": "3C63R3ELXMG565713",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/3dcf7a229f36.html",
-      "year": 2021,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "used",
-      "price": 63990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 RAM 3500 ",
-      "vin": "3C63R3ELXMG565713",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/3dcf7a229f36.html",
       "year": 2021,
       "make": "RAM",
@@ -715,20 +605,20 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Chrysler Pacifica Touring AWDin Terrace",
-      "vin": "2C4RC3FG6NR109046",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/01e93f0c5955.html",
-      "year": 2022,
-      "make": "Chrysler",
-      "model": "Pacifica",
+      "name": "2021 Toyota Tacoma 4x4 Double Cab Autoin Terrace",
+      "vin": "5TFDZ5BN5MX058745",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/9cb621b1adfd.html",
+      "year": 2021,
+      "make": "Toyota",
+      "model": "Tacoma",
       "condition": "used",
-      "price": 35495.0,
+      "price": 44990.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Chrysler Pacifica ",
+      "name": "2022 Chrysler Pacifica Touring AWDin Terrace",
       "vin": "2C4RC3FG6NR109046",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/cd5b05ac0e7d.html",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/01e93f0c5955.html",
       "year": 2022,
       "make": "Chrysler",
       "model": "Pacifica",
@@ -783,17 +673,6 @@
     {
       "name": "2022 Ford Bronco ",
       "vin": "1FMEE5DH2NLB19349",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/7b738e7abb26.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "Bronco",
-      "condition": "used",
-      "price": 38990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford Bronco ",
-      "vin": "1FMEE5DH2NLB19349",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/7b738e7abb26.html",
       "year": 2022,
       "make": "Ford",
@@ -803,42 +682,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Jeep Grand Cherokee 4xe 4x4in Terrace",
-      "vin": "1C4RJYB62N8734720",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/28f189366e4f.html",
-      "year": 2022,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 37990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Jeep Grand Cherokee 4xe ",
-      "vin": "1C4RJYB62N8734720",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/0d37a3ebc432.html",
-      "year": 2022,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 37990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Jeep Wagoneer Series III 4x4in Terrace",
       "vin": "1C4SJVDT4NS177590",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/7a2bc428cfe8.html",
-      "year": 2022,
-      "make": "Jeep",
-      "model": "Wagoneer",
-      "condition": "used",
-      "price": 45990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Jeep Wagoneer ",
-      "vin": "1C4SJVDT4NS177590",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/da5c4ef65829.html",
       "year": 2022,
       "make": "Jeep",
       "model": "Wagoneer",
@@ -869,6 +715,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 RAM 1500 Classic Warlock 4x4 Crew Cab 5'7\" Boxin Terrace",
+      "vin": "1C6RR7LT5NS120603",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/ec39f90add50.html",
+      "year": 2022,
+      "make": "RAM",
+      "model": "1500 Classic",
+      "condition": "used",
+      "price": 30990.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 GMC Sierra 2500 HD 4WD Crew Cab Long Box SLEin Terrace",
       "vin": "1GT49ME74PF147109",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/9536c1357f29.html",
@@ -891,28 +748,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Jeep Cherokee Altitude 4x4in Terrace",
-      "vin": "1C4PJMMB2PD103454",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/7e2a0d321871.html",
-      "year": 2023,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "used",
-      "price": 31990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Jeep Cherokee ",
-      "vin": "1C4PJMMB2PD103454",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/d3539c82b2d5.html",
-      "year": 2023,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "used",
-      "price": 31990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 RAM 2500 ",
       "vin": "3C6TR5EJ8PG553512",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/1e127906c43b.html",
@@ -924,42 +759,20 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Toyota Tacoma 4x4 Double Cab Auto SBin Terrace",
-      "vin": "3TYCZ5AN2PT173489",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/6397745fe692.html",
+      "name": "2023 Toyota Corolla Cross Hybrid Sein Terrace",
+      "vin": "7MUFBABG3PV004075",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/25375e7b8039.html",
       "year": 2023,
       "make": "Toyota",
-      "model": "Tacoma",
+      "model": "Corolla Cross Hybrid",
       "condition": "used",
-      "price": 47990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Toyota Tacoma ",
-      "vin": "3TYCZ5AN2PT173489",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/9ed905d6a3de.html",
-      "year": 2023,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "used",
-      "price": 47990.0,
+      "price": 35990.0,
       "price_currency": "CAD"
     },
     {
       "name": "2024 RAM 1500 Big Horn 4x4 Crew Cab 5'7\" Boxin Terrace",
       "vin": "1C6SRFFT4RN114092",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/c1ca81591362.html",
-      "year": 2024,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 45990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 RAM 1500 ",
-      "vin": "1C6SRFFT4RN114092",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/dbff928ba6fe.html",
       "year": 2024,
       "make": "RAM",
       "model": "1500",
@@ -990,17 +803,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Toyota Corolla Cross Hybrid ",
-      "vin": "7MUFBABG4RV044488",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/8f503a17c4d8.html",
-      "year": 2024,
-      "make": "Toyota",
-      "model": "Corolla Cross Hybrid",
-      "condition": "used",
-      "price": 40990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Toyota GR Corolla Core AWDin Terrace",
       "vin": "JTNABAAE8RA011622",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/dd3492abe861.html",
@@ -1008,18 +810,7 @@
       "make": "Toyota",
       "model": "GR Corolla",
       "condition": "used",
-      "price": 45990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Toyota GR Corolla ",
-      "vin": "JTNABAAE8RA011622",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/0eb8ea83325c.html",
-      "year": 2024,
-      "make": "Toyota",
-      "model": "GR Corolla",
-      "condition": "used",
-      "price": 45990.0,
+      "price": 44990.0,
       "price_currency": "CAD"
     },
     {
@@ -1042,6 +833,28 @@
       "model": "GR Corolla",
       "condition": "new",
       "price": 45990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Ford Explorer ST 4WDin Terrace",
+      "vin": "1FMWK8GC7SGA70605",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/9341d40d3a3b.html",
+      "year": 2025,
+      "make": "Ford",
+      "model": "Explorer",
+      "condition": "used",
+      "price": 57990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Honda Civic Hybrid Sport Touringin Terrace",
+      "vin": "2HGFE4F85SH018087",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/101d5bfcfa4b.html",
+      "year": 2025,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "used",
+      "price": 33990.0,
       "price_currency": "CAD"
     },
     {
@@ -1438,6 +1251,116 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Toyota 4Runner Hybridin Terrace",
+      "vin": "JTEVB5BR3T5052380",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/959aac5debc8.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "4Runner",
+      "condition": "new",
+      "price": 84786.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Toyota C-HR XSEin Terrace",
+      "vin": "JTMAAAAD9TJ026250",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/64d4e1f0ea0b.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "C-HR",
+      "condition": "new",
+      "price": 52020.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Toyota Corolla Cross XLEin Terrace",
+      "vin": "7MUDAABG7TV208589",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/a48a5cc279b1.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Corolla Cross",
+      "condition": "new",
+      "price": 40213.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Toyota Corolla Cross Lin Terrace",
+      "vin": "7MUAAABG2TV209281",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/cd137bbe8726.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Corolla Cross",
+      "condition": "new",
+      "price": 32658.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Toyota RAV4 XLEin Terrace",
+      "vin": "2T36CRAV9TC044418",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/8f5c884c9a60.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "RAV4",
+      "condition": "new",
+      "price": 43378.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Toyota Sienna XSEin Terrace",
+      "vin": "5TDGSKFC8TS287708",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/b4b451f3231b.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Sienna",
+      "condition": "new",
+      "price": 59681.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Toyota Tacoma Basein Terrace",
+      "vin": "3TYLB5JN2TT153547",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/c52fb0ea7457.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "new",
+      "price": 54653.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Toyota Tacoma Basein Terrace",
+      "vin": "3TYLB5JN6TT157553",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/820a42882a28.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "new",
+      "price": 58866.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Toyota Tundra Limitedin Terrace",
+      "vin": "5TFWA5DBXTX438875",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/26e19b43960b.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tundra",
+      "condition": "new",
+      "price": 91823.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Toyota Tundra SRin Terrace",
+      "vin": "5TFLA5DB7TX451411",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/f42dd3ec9ed6.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tundra",
+      "condition": "new",
+      "price": 67194.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Toyota C-HRin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/a103517daf7f.html",
       "year": 2027,
@@ -1546,6 +1469,39 @@
       "model": "bZ",
       "condition": "new",
       "price": 61935.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Toyota Prius Plug-In Hybrid SEin Terrace",
+      "vin": "JTDACACU3V3086250",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/d8e182e0a6b3.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "Prius Prime",
+      "condition": "new",
+      "price": 43080.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Toyota Prius Plug-In Hybrid SEin Terrace",
+      "vin": "JTDACACU3V3086989",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/6ddde116672d.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "Prius Prime",
+      "condition": "new",
+      "price": 43430.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Toyota Prius Plug-In Hybrid SEin Terrace",
+      "vin": "JTDACACU7V3087062",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/30a2e8df8841.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "Prius Prime",
+      "condition": "new",
+      "price": 43080.0,
       "price_currency": "CAD"
     }
   ]
