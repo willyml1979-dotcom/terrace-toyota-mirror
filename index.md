@@ -1,6 +1,6 @@
 # Terrace Toyota
 
- dealership in Terrace. AI-readable inventory mirror, about 143 vehicles.
+ dealership in Terrace. AI-readable inventory mirror, about 154 vehicles.
 
 - Official website: https://www.terracetoyota.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/
