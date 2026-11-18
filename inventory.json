@@ -1,10 +1,50 @@
 {
   "dealership": "Terrace Toyota",
-  "generated_at": "2026-11-17T10:44:45",
+  "generated_at": "2026-11-18T01:11:55",
   "vehicle_count": 154,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "Toyota RAV4 2014 for salein Terrace",
+      "vin": "2T3BFREV5EW135607",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/59e26b0bffe4.html",
+      "condition": "used",
+      "price": 17990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Explorer 2017 for salein Terrace",
+      "vin": "1FM5K8HT0HGB73206",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/c2414ec3b00e.html",
+      "condition": "used",
+      "price": 17495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chrysler 300 2018 for salein Terrace",
+      "vin": "2C3CCAGG5JH283669",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/715a00110470.html",
+      "condition": "used",
+      "price": 16990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 2500 2019 for salein Terrace",
+      "vin": "3C6TR5EJ7KG518226",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/0d3d81eb4ab4.html",
+      "condition": "used",
+      "price": 37990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 3500 2019 for salein Terrace",
+      "vin": "3C63RRJL8KG523899",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/a4e13d4c85fe.html",
+      "condition": "used",
+      "price": 54990.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "Jeep Grand Cherokee 2021 for salein Terrace",
       "vin": "1C4RJFAG5MC687113",
@@ -110,6 +150,22 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Jeep Compass 2025 for salein Terrace",
+      "vin": "3C4NJDFN4ST514727",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/c6dc617aeb0a.html",
+      "condition": "used",
+      "price": 30990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Grand Cherokee 2025 for salein Terrace",
+      "vin": "1C4RJHAG4S8804028",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/3cccc4002ddf.html",
+      "condition": "used",
+      "price": 41990.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "RAM 1500 2024 for salein Terrace",
       "vin": "1C6SRFFT4RN114092",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/dbff928ba6fe.html",
@@ -175,17 +231,6 @@
       "name": "2014 Toyota RAV4 AWD 4dr LEin Terrace",
       "vin": "2T3BFREV5EW135607",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/e5fb6d6d56ad.html",
-      "year": 2014,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "used",
-      "price": 17990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 Toyota RAV4 ",
-      "vin": "2T3BFREV5EW135607",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/59e26b0bffe4.html",
       "year": 2014,
       "make": "Toyota",
       "model": "RAV4",
@@ -278,18 +323,7 @@
       "make": "Ford",
       "model": "Explorer",
       "condition": "used",
-      "price": 17490.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Ford Explorer ",
-      "vin": "1FM5K8HT0HGB73206",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/c2414ec3b00e.html",
-      "year": 2017,
-      "make": "Ford",
-      "model": "Explorer",
-      "condition": "used",
-      "price": 17490.0,
+      "price": 17495.0,
       "price_currency": "CAD"
     },
     {
@@ -329,17 +363,6 @@
       "name": "2018 Chrysler 300 300S AWDin Terrace",
       "vin": "2C3CCAGG5JH283669",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/9a66efc32825.html",
-      "year": 2018,
-      "make": "Chrysler",
-      "model": "300",
-      "condition": "used",
-      "price": 16990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Chrysler 300 ",
-      "vin": "2C3CCAGG5JH283669",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/715a00110470.html",
       "year": 2018,
       "make": "Chrysler",
       "model": "300",
@@ -436,20 +459,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 RAM 2500 Power Wagonin Terrace",
+      "name": "2019 RAM 2500 Power Wagon 4x4 Crew Cab 6'4\" Boxin Terrace",
       "vin": "3C6TR5EJ7KG518226",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/98e8ce558b37.html",
-      "year": 2019,
-      "make": "RAM",
-      "model": "2500",
-      "condition": "used",
-      "price": 37990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 RAM 2500 ",
-      "vin": "3C6TR5EJ7KG518226",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/0d3d81eb4ab4.html",
       "year": 2019,
       "make": "RAM",
       "model": "2500",
@@ -461,17 +473,6 @@
       "name": "2019 RAM 3500 Laramie 4x4 Crew Cab 8' Boxin Terrace",
       "vin": "3C63RRJL8KG523899",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/501bfae55017.html",
-      "year": 2019,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "used",
-      "price": 54990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 RAM 3500 ",
-      "vin": "3C63RRJL8KG523899",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/a4e13d4c85fe.html",
       "year": 2019,
       "make": "RAM",
       "model": "3500",
@@ -861,35 +862,13 @@
       "make": "Jeep",
       "model": "Compass",
       "condition": "used",
-      "price": 34990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Jeep Compass ",
-      "vin": "3C4NJDFN4ST514727",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/c6dc617aeb0a.html",
-      "year": 2025,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "used",
-      "price": 34990.0,
+      "price": 30990.0,
       "price_currency": "CAD"
     },
     {
       "name": "2025 Jeep Grand Cherokee Laredo 4x4in Terrace",
       "vin": "1C4RJHAG4S8804028",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/7676ea4ecdb3.html",
-      "year": 2025,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 41990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Jeep Grand Cherokee ",
-      "vin": "1C4RJHAG4S8804028",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/3cccc4002ddf.html",
       "year": 2025,
       "make": "Jeep",
       "model": "Grand Cherokee",
