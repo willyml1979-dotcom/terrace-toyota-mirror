@@ -7,7 +7,7 @@ Terrace Toyota is a  dealership in Terrace. This site is an AI-readable mirror o
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/ and https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/ (about 154 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/ and https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/ (about 149 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/terrace-toyota-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/terrace-toyota-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/terrace-toyota-mirror/llms.txt

@@ -1,7 +1,7 @@
 {
   "dealership": "Terrace Toyota",
-  "generated_at": "2026-11-18T01:11:55",
-  "vehicle_count": 154,
+  "generated_at": "2026-11-18T01:33:57",
+  "vehicle_count": 149,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -878,6 +878,7 @@
     },
     {
       "name": "2026 Toyota 4Runnerin Terrace",
+      "vin": "JTEVA5BR1T5173461",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/e6ddbedb233b.html",
       "year": 2026,
       "make": "Toyota",
@@ -887,25 +888,24 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota 4Runner ",
-      "vin": "JTEVB5BR3T5052380",
+      "name": "2026 Toyota 4Runner Hybridin Terrace",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/3c6cba6cc4dc.html",
       "year": 2026,
       "make": "Toyota",
       "model": "4Runner",
       "condition": "new",
-      "price": 84786.0,
+      "price": 71237.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota C-HR ",
+      "name": "2026 Toyota C-HRin Terrace",
       "vin": "JTMAAAAD9TJ026250",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/7606e2155e6e.html",
       "year": 2026,
       "make": "Toyota",
-      "model": "C-HR",
+      "model": "C-HRin Terrace",
       "condition": "new",
-      "price": 52020.0,
+      "price": 46930.0,
       "price_currency": "CAD"
     },
     {
@@ -1237,39 +1237,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Toyota Corolla Cross XLEin Terrace",
-      "vin": "7MUDAABG7TV208589",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/a48a5cc279b1.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Corolla Cross",
-      "condition": "new",
-      "price": 40213.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Toyota Corolla Cross Lin Terrace",
-      "vin": "7MUAAABG2TV209281",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/cd137bbe8726.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Corolla Cross",
-      "condition": "new",
-      "price": 32658.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Toyota RAV4 XLEin Terrace",
-      "vin": "2T36CRAV9TC044418",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/8f5c884c9a60.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "new",
-      "price": 43378.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2026 Toyota RAV4 XLEin Terrace",
       "vin": "2T36CRAV5TW123728",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/6b5112b90237.html",
@@ -1289,17 +1256,6 @@
       "model": "RAV4",
       "condition": "new",
       "price": 54078.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Toyota Sienna XSEin Terrace",
-      "vin": "5TDGSKFC8TS287708",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/b4b451f3231b.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Sienna",
-      "condition": "new",
-      "price": 59681.0,
       "price_currency": "CAD"
     },
     {
@@ -1355,17 +1311,6 @@
       "model": "Tundra",
       "condition": "new",
       "price": 91823.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Toyota Tundra SRin Terrace",
-      "vin": "5TFLA5DB7TX451411",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/f42dd3ec9ed6.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Tundra",
-      "condition": "new",
-      "price": 67194.0,
       "price_currency": "CAD"
     },
     {
