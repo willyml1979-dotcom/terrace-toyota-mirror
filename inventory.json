@@ -1,16 +1,48 @@
 {
   "dealership": "Terrace Toyota",
-  "generated_at": "2026-11-18T01:33:57",
+  "generated_at": "2026-11-18T10:27:41",
   "vehicle_count": 149,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "RAM 1500 2014 for salein Terrace",
+      "vin": "1C6RR7GMXES294086",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/06de0881736f.html",
+      "condition": "used",
+      "price": 14990.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "Toyota RAV4 2014 for salein Terrace",
       "vin": "2T3BFREV5EW135607",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/59e26b0bffe4.html",
       "condition": "used",
       "price": 17990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge Grand Caravan 2016 for salein Terrace",
+      "vin": "2C4RDGBG0GR223685",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/a2b75218ede8.html",
+      "condition": "used",
+      "price": 16990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Terrain 2016 for salein Terrace",
+      "vin": "2GKFLUEKXG6265775",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/6f3df3cbe5a1.html",
+      "condition": "used",
+      "price": 25990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 2500 2016 for salein Terrace",
+      "vin": "3C6UR5KL7GG286163",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/21aed117dcee.html",
+      "condition": "used",
+      "price": 24990.0,
       "price_currency": "CAD"
     },
     {
@@ -25,6 +57,14 @@
       "name": "Chrysler 300 2018 for salein Terrace",
       "vin": "2C3CCAGG5JH283669",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/715a00110470.html",
+      "condition": "used",
+      "price": 16990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Compass 2018 for salein Terrace",
+      "vin": "3C4NJDBB2JT493306",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/572946b23be5.html",
       "condition": "used",
       "price": 16990.0,
       "price_currency": "CAD"
@@ -78,6 +118,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Dodge Durango 2022 for salein Terrace",
+      "vin": "1C4RDJAG9NC183546",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/1a52173c9e19.html",
+      "condition": "used",
+      "price": 30990.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Ford Bronco 2022 for salein Terrace",
       "vin": "1FMEE5DH2NLB19349",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/7b738e7abb26.html",
@@ -99,6 +147,14 @@
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/e881d9408051.html",
       "condition": "used",
       "price": 30990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Sierra 2500 HD 2023 for salein Terrace",
+      "vin": "1GT49ME74PF147109",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/d76fac00a5d9.html",
+      "condition": "used",
+      "price": 49990.0,
       "price_currency": "CAD"
     },
     {
@@ -217,17 +273,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2014 RAM 1500 ",
-      "vin": "1C6RR7GMXES294086",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/06de0881736f.html",
-      "year": 2014,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 14990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2014 Toyota RAV4 AWD 4dr LEin Terrace",
       "vin": "2T3BFREV5EW135607",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/e5fb6d6d56ad.html",
@@ -261,17 +306,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Dodge Grand Caravan ",
-      "vin": "2C4RDGBG0GR223685",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/a2b75218ede8.html",
-      "year": 2016,
-      "make": "Dodge",
-      "model": "Grand Caravan",
-      "condition": "used",
-      "price": 16990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2016 GMC Terrain AWD SLTin Terrace",
       "vin": "2GKFLUEKXG6265775",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/8e1367bf8b47.html",
@@ -283,31 +317,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 GMC Terrain ",
-      "vin": "2GKFLUEKXG6265775",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/6f3df3cbe5a1.html",
-      "year": 2016,
-      "make": "GMC",
-      "model": "Terrain",
-      "condition": "used",
-      "price": 25990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2016 RAM 2500 4WD Crew Cab 8 Ft Box Laramiein Terrace",
       "vin": "3C6UR5KL7GG286163",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/e11ee912ece6.html",
-      "year": 2016,
-      "make": "RAM",
-      "model": "2500",
-      "condition": "used",
-      "price": 24990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 RAM 2500 ",
-      "vin": "3C6UR5KL7GG286163",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/21aed117dcee.html",
       "year": 2016,
       "make": "RAM",
       "model": "2500",
@@ -378,18 +390,7 @@
       "make": "Jeep",
       "model": "Compass",
       "condition": "used",
-      "price": 17990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Jeep Compass ",
-      "vin": "3C4NJDBB2JT493306",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/572946b23be5.html",
-      "year": 2018,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "used",
-      "price": 17990.0,
+      "price": 16990.0,
       "price_currency": "CAD"
     },
     {
@@ -690,17 +691,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Dodge Durango ",
-      "vin": "1C4RDJAG9NC183546",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/1a52173c9e19.html",
-      "year": 2022,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "used",
-      "price": 30990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Ford Bronco Base 4 Door Advanced 4x4in Terrace",
       "vin": "1FMEE5DH2NLB19349",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/688d4d146c11.html",
@@ -770,17 +760,6 @@
       "name": "2023 GMC Sierra 2500 HD 4WD Crew Cab Long Box SLEin Terrace",
       "vin": "1GT49ME74PF147109",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/9536c1357f29.html",
-      "year": 2023,
-      "make": "GMC",
-      "model": "Sierra 2500",
-      "condition": "used",
-      "price": 49990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 GMC Sierra 2500 HD ",
-      "vin": "1GT49ME74PF147109",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/d76fac00a5d9.html",
       "year": 2023,
       "make": "GMC",
       "model": "Sierra 2500",
