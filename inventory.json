@@ -1,6 +1,6 @@
 {
   "dealership": "Terrace Toyota",
-  "generated_at": "2026-11-18T20:50:19",
+  "generated_at": "2026-11-18T21:05:52",
   "vehicle_count": 149,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1063,14 +1063,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota RAV4 ",
-      "vin": "2T36CRAV9TC044418",
+      "name": "2026 Toyota RAV4in Terrace",
+      "vin": "2T36CRAV5TW123728",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/9b1016c3537b.html",
       "year": 2026,
       "make": "Toyota",
-      "model": "RAV4",
+      "model": "RAV4in Terrace",
       "condition": "new",
-      "price": 43378.0,
+      "price": 39530.0,
       "price_currency": "CAD"
     },
     {
@@ -1094,25 +1094,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Sienna ",
-      "vin": "5TDGSKFC8TS287708",
+      "name": "2026 Toyota Siennain Terrace",
+      "vin": "5TDGSKFC9TS296756",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/c440c01369ff.html",
       "year": 2026,
       "make": "Toyota",
-      "model": "Sienna",
+      "model": "Siennain Terrace",
       "condition": "new",
-      "price": 59681.0,
+      "price": 52450.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Tacoma ",
+      "name": "2026 Toyota Tacomain Terrace",
       "vin": "3TYLB5JN2TT153547",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/20da86cfcdfe.html",
       "year": 2026,
       "make": "Toyota",
-      "model": "Tacoma",
+      "model": "Tacomain Terrace",
       "condition": "new",
-      "price": 54653.0,
+      "price": 50925.0,
       "price_currency": "CAD"
     },
     {
@@ -1126,14 +1126,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Tundra ",
-      "vin": "5TFLA5DB7TX451411",
+      "name": "2026 Toyota Tundrain Terrace",
+      "vin": "5TFWA5DB6TX455219",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/bd29dee0acdd.html",
       "year": 2026,
       "make": "Toyota",
-      "model": "Tundra",
+      "model": "Tundrain Terrace",
       "condition": "new",
-      "price": 67194.0,
+      "price": 56470.0,
       "price_currency": "CAD"
     },
     {
@@ -1320,6 +1320,7 @@
     },
     {
       "name": "2027 Toyota Corolla Hatchbackin Terrace",
+      "vin": "JTNK4MBE4V3277894",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/979b6880b0be.html",
       "year": 2027,
       "make": "Toyota",
