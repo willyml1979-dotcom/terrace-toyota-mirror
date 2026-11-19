@@ -1,6 +1,6 @@
 {
   "dealership": "Terrace Toyota",
-  "generated_at": "2026-11-18T10:42:47",
+  "generated_at": "2026-11-18T20:50:19",
   "vehicle_count": 149,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -54,6 +54,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "RAM 1500 2017 for salein Terrace",
+      "vin": "1C6RR7YT1HS501460",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/bdd7b3b53997.html",
+      "condition": "used",
+      "price": 29990.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Chrysler 300 2018 for salein Terrace",
       "vin": "2C3CCAGG5JH283669",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/715a00110470.html",
@@ -70,6 +78,22 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Jeep Wrangler 2018 for salein Terrace",
+      "vin": "1C4BJWDG7JL914603",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/2a9268022abc.html",
+      "condition": "used",
+      "price": 19490.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Cherokee 2019 for salein Terrace",
+      "vin": "1C4PJMBX7KD468087",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/5ea2a24f25a5.html",
+      "condition": "used",
+      "price": 24990.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "RAM 2500 2019 for salein Terrace",
       "vin": "3C6TR5EJ7KG518226",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/0d3d81eb4ab4.html",
@@ -83,6 +107,22 @@
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/a4e13d4c85fe.html",
       "condition": "used",
       "price": 54990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 2020 for salein Terrace",
+      "vin": "1C4HJXEG9LW212685",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/7502eb9dfb8f.html",
+      "condition": "used",
+      "price": 35990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Silverado 1500 2021 for salein Terrace",
+      "vin": "3GCUYHET7MG451052",
+      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/4e7c940f2a7a.html",
+      "condition": "used",
+      "price": 43990.0,
       "price_currency": "CAD"
     },
     {
@@ -352,17 +392,6 @@
     {
       "name": "2017 RAM 1500 ",
       "vin": "1C6RR7YT1HS501460",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/bdd7b3b53997.html",
-      "year": 2017,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 29990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 RAM 1500 ",
-      "vin": "1C6RR7YT1HS501460",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/new/bdd7b3b53997.html",
       "year": 2017,
       "make": "RAM",
@@ -401,18 +430,7 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 19990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Jeep Wrangler ",
-      "vin": "1C4BJWDG7JL914603",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/2a9268022abc.html",
-      "year": 2018,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 19990.0,
+      "price": 19490.0,
       "price_currency": "CAD"
     },
     {
@@ -430,17 +448,6 @@
       "name": "2019 Jeep Cherokee Trailhawk Elite 4x4in Terrace",
       "vin": "1C4PJMBX7KD468087",
       "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/efa96430c986.html",
-      "year": 2019,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "used",
-      "price": 24990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Jeep Cherokee ",
-      "vin": "1C4PJMBX7KD468087",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/5ea2a24f25a5.html",
       "year": 2019,
       "make": "Jeep",
       "model": "Cherokee",
@@ -511,18 +518,7 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 36990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Jeep Wrangler ",
-      "vin": "1C4HJXEG9LW212685",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/7502eb9dfb8f.html",
-      "year": 2020,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 36990.0,
+      "price": 35990.0,
       "price_currency": "CAD"
     },
     {
@@ -554,17 +550,6 @@
       "year": 2021,
       "make": "Chevrolet",
       "model": "Silverado 1500 Crew Cab Standard Box 4-Wheel Drive High Countryin Terrace",
-      "condition": "used",
-      "price": 43990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Chevrolet Silverado 1500 ",
-      "vin": "3GCUYHET7MG451052",
-      "url": "https://willyml1979-dotcom.github.io/terrace-toyota-mirror/used/4e7c940f2a7a.html",
-      "year": 2021,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
       "condition": "used",
       "price": 43990.0,
       "price_currency": "CAD"
